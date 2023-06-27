@@ -1,4 +1,4 @@
-package knjizara_opet;
+package DemoQA_bookstore_opet;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
